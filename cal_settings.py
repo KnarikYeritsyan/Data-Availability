@@ -205,7 +205,7 @@ P_guess=1.2*1000*4.184
 
 #21=================================================================================================================================
 
-# load_file='privalov-1986-ph4.08-subtracted-per-repeat-unit.csv'   #not so good fit (max point does not match)
+# load_file='privalov-1986-ph4.08-subtracted-per-repeat-unit.csv'
 # N=153
 # h_guess=3000.0
 # p_guess=1.0*h_guess
@@ -235,7 +235,7 @@ P_guess=1.2*1000*4.184
 
 #24=================================================================================================================================
 
-# load_file='stanislav-2017-fig6-subtracted-per-repeat-unit.csv'  #not so good fit (sides do not match)
+# load_file='stanislav-2017-fig6-subtracted-per-repeat-unit.csv'
 # N=58
 # h_guess=4000.0
 # p_guess=1.0*h_guess
@@ -245,7 +245,7 @@ P_guess=1.2*1000*4.184
 
 #25=================================================================================================================================
 
-# load_file='seelig-cal-2016-fig8-subtracted-per-repeat-unit.csv'  #2-state fits better
+# load_file='seelig-cal-2016-fig8-subtracted-per-repeat-unit.csv'
 # N=129
 # h_guess=5000.0
 # p_guess=1.0*h_guess
@@ -265,7 +265,7 @@ P_guess=1.2*1000*4.184
 
 #27=================================================================================================================================
 
-# load_file='stephen-2016-fig1-subtracted-per-repeat-unit.csv'    #2-state fits better
+# load_file='stephen-2016-fig1-subtracted-per-repeat-unit.csv'
 # N=76
 # h_guess=3000.0
 # p_guess=1.0*h_guess
